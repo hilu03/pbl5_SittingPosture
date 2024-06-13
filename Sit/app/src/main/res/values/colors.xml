@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#024265</color>
+    <color name="colorPrimaryDark">#024265</color>
+    <color name="colorAccent">#05af9b</color>
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#609E8080</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="Wrong">#EF5350</color>
+    <color name="Correct">#66BB6A</color>
+    <color name="CPP">#EF5350</color>
+    <color name="B">#29B6F6</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cyan">#28EEEE</color>
+
+
+    <color name="green">#3AA3A5</color>
+    <color name="orange">#FE6900</color>
+    <color name="blue">#63b3f3</color>
+    <color name="dark_blue">#32357A</color>
+
+    <color name="night_mode">#6124B1</color>
+    <color name="notifications">#13B2C3</color>
+    <color name="private_account">#E6A326</color>
+    <color name="security">#D95F69</color>
+    <color name="secondary">#FF03DAC5</color>
+</resources>
